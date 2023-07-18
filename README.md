@@ -1,4 +1,3 @@
 # website-on-Restaurant
-
-https://website.jyotsnachoudha1.repl.co/
+https://restaurant-website.jyotsnachoudha1.repl.co/
 
